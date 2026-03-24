@@ -1,6 +1,6 @@
 # Endfield_Blueprints_Asia_ZH_HANT
 
-## Sihao valley Excel automation
+## Valley Four Excel automation
 
 Run the workbook automation in write-enabled mode to rebuild the managed output table and slicers:
 
